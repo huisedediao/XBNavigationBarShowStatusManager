@@ -1,0 +1,2 @@
+# XBNavigationBarShowStatusManager
+不那么生硬地隐藏或者显示navigationBar
